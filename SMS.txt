@@ -2,4 +2,3 @@
 1.Login page
 2.Select The Name Of The Coustomer
 3.No. Of Stock In Warehouse
-4.
