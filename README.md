@@ -1,2 +1,2 @@
 # Stock-Maintaining-System
-Maintaining stocks for a any companies in/out warehouses
+Maintaining stocks for an companies in/out warehouses
